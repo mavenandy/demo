@@ -1,14 +1,81 @@
+
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "DisplayName": "009UQW",
+    "Name": "009UQW",
+    "Id": "a07E000000Sj6lqIAB",
+    "Address": "9 Hampton Corner Rd, Ringoes NJ 08551 US",
+    "ContractTyp": "Lease",
+    "Status": "InService",
+    "NickName": "",
+    "Meters": [
+        {
+            "Meter": "76829624",
+            "Status": "Replacement"
+        },
+        {
+            "Meter": "76833524",
+            "Status": "Replacement"
+        }
+    ],
+    "Autopayactivated": "No",
+    "PaymentDue": 585.15,
+    "NextPaymentDate": "2020-12-21T00:00:00+00:00",
+    "CurrentPayment": 100.0
+},
+{
+    "DisplayName": "009UP4",
+    "Name": "009UP4",
+    "Id": "a07E000000Sj6pHIAR",
+    "Address": "9 Hampton Corner, Ringoes NJ 08551 US",
+    "ContractTyp": "Lease",
+    "Status": "InService",
+    "NickName": "'AlexTestUP4-1'",
+    "Meters": [
+        {
+            "Meter": "AE10524708",
+            "Status": "Replacement"
+        }
+    ],
+    "Autopayactivated": "No",
+    "PaymentDue": 639.48,
+    "NextPaymentDate": "2020-12-21T00:00:00+00:00",
+    "CurrentPayment": 322.97
+},
+{
+    "DisplayName": "009UPL",
+    "Name": "009UPL",
+    "Id": "a07E000000Sj6uyIAB",
+    "Address": "9 Hampton Corner, Ringoes NJ 08551 US",
+    "ContractTyp": "Lease",
+    "Status": "InService",
+    "NickName": "'AlexTestUPL2'",
+    "Meters": [
+        {
+            "Meter": "76830035",
+            "Status": "Replacement"
+        }
+    ],
+    "Autopayactivated": "No",
+    "PaymentDue": 776.56,
+    "NextPaymentDate": "2020-12-21T00:00:00+00:00",
+    "CurrentPayment": 392.2
+},
+{
+    "DisplayName": "009US2",
+    "Name": "009US2",
+    "Id": "a07E000000Sj6waIAB",
+    "Address": "972 County Road 519, Frenchtown NJ 08825 US",
+    "ContractTyp": "Lease",
+    "Status": "InService",
+    "NickName": "'AlexTestUS21'",
+    "Meters": [
+        {
+            "Meter": "76830032",
+            "Status": "Replacement"
+        }
+    ],
+    "Autopayactivated": "Yes",
+    "PaymentDue": 307.52,
+    "NextPaymentDate": "2020-12-21T00:00:00+00:00",
+    "CurrentPayment": 153.76
 }
